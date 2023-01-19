@@ -1,0 +1,7 @@
+--constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.2.2/constraints-3.7.txt"
+
+apache-airflow[slack, amazon, apache.atlas]==2.2.2
+sagemaker==2.69.0
+boto3==1.18.65
+boto==2.49.0
+botocore==1.21.65
